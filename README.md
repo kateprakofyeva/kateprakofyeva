@@ -2,23 +2,23 @@
 
 ### Frontend Developer | Product Engineering Analyst
 
-I'm a frontend-focused software engineer with **5+ years of experience** building modern, responsive, and scalable web applications.
+I'm a frontend-focused software engineer with **5+ years of experience** building modern, scalable, and user-centered web applications.
 
-I primarily work with **React, TypeScript, and Next.js**, with additional experience in backend development using **Node.js, NestJS, PostgreSQL, and REST APIs**.
+I enjoy turning complex ideas into experiences that feel **simple, intuitive, and reliable**. While frontend development is where I feel most at home, I'm naturally curious about the bigger picture and enjoy understanding how products work beyond the UI.
 
-I enjoy turning complex requirements into clean, intuitive user experiences and building solutions that are maintainable, accessible, and easy to use.
+Over the years, I've worked across different products and domains, collaborating with cross-functional teams and gradually expanding my experience into **backend development, architecture, cloud, and AI-enabled solutions**.
+
+What matters most to me is building software that is not only functional, but also **thoughtful, maintainable, accessible, and genuinely useful to the people using it**.
 
 ---
 
-## 💼 What I'm working on
+## ✨ Current Focus
 
-### METRO AI Order Intake
+I'm currently working on an **AI-powered order processing solution**, where I focus on creating intuitive experiences that bring AI capabilities and human decision-making together.
 
-Currently contributing to an AI-powered order intake solution for **METRO**, focused on transforming incoming customer orders into structured digital orders.
+This has been an exciting opportunity to work beyond traditional frontend development and deepen my understanding of how **AI, application architecture, APIs, and cloud infrastructure** come together in a real-world product.
 
-My work is primarily focused on the **frontend and employee validation experience**, including interfaces that allow users to review, validate, edit, and manage AI-interpreted order data.
-
-The project combines modern web development with AI-assisted order processing and human-in-the-loop validation.
+I'm especially interested in building AI-enabled experiences that feel **clear, trustworthy, and natural to use**.
 
 ---
 
@@ -26,7 +26,7 @@ The project combines modern web development with AI-assisted order processing an
 
 <!-- Beautiful, compact badges grouped by category. Badges are clickable links to official docs. -->
 
-<p align="center">
+<p>
   <!-- Frontend -->
   <strong>Frontend</strong><br/>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/></a>
@@ -47,7 +47,7 @@ The project combines modern web development with AI-assisted order processing an
   <a href="https://mui.com"><img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/></a>
 </p>
 
-<p align="center">
+<p>
   <!-- Backend & APIs -->
   <strong>Backend &amp; APIs</strong><br/>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></a>
@@ -60,7 +60,7 @@ The project combines modern web development with AI-assisted order processing an
   <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/></a>
 </p>
 
-<p align="center">
+<p>
   <!-- Architecture -->
   <strong>Architecture</strong><br/>
   <a href="https://micro-frontends.org"><img src="https://img.shields.io/badge/Micro--Frontends-6B7280?style=flat-square&logo=webpack&logoColor=white" alt="Micro-Frontends"/></a>
@@ -70,7 +70,7 @@ The project combines modern web development with AI-assisted order processing an
   <a href="https://www.w3.org/WAI/"><img src="https://img.shields.io/badge/Accessibility-A11Y-FBBA00?style=flat-square&logo=adobe&logoColor=white" alt="Accessibility"/></a>
 </p>
 
-<p align="center">
+<p>
   <!-- Cloud & DevOps -->
   <strong>Cloud &amp; DevOps</strong><br/>
   <a href="https://cloud.google.com"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/></a>
@@ -81,7 +81,7 @@ The project combines modern web development with AI-assisted order processing an
   <a href="https://cloud.google.com/kubernetes-engine"><img src="https://img.shields.io/badge/GKE-0F172A?style=flat-square&logo=google-cloud&logoColor=white" alt="GKE"/></a>
 </p>
 
-<p align="center">
+<p>
   <!-- Testing & Tooling -->
   <strong>Testing &amp; Tooling</strong><br/>
   <a href="https://jestjs.io"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/></a>
@@ -94,7 +94,7 @@ The project combines modern web development with AI-assisted order processing an
   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/></a>
 </p>
 
-<p align="center">
+<p>
   <!-- AI & Intelligent Applications -->
   <strong>AI &amp; Intelligent Applications</strong><br/>
   <a href="#"><img src="https://img.shields.io/badge/AI-assisted_Order_Processing-7C3AED?style=flat-square&logo=ai&logoColor=white" alt="AI-assisted Order Processing"/></a>
@@ -106,45 +106,27 @@ The project combines modern web development with AI-assisted order processing an
 
 ---
 
-## 🚀 Experience Highlights
+## 🌱 Beyond the Code
 
-- ⚛️ Building scalable frontend applications with **React, Next.js & TypeScript**
-- 🧩 Developing reusable components and maintainable UI architecture
-- 🔌 Integrating frontend applications with **REST APIs**
-- 🗄️ Working with **Node.js, NestJS & PostgreSQL**
-- 🌍 Building multilingual applications with **i18n**
-- ♿ Improving **accessibility, responsiveness & usability**
-- ⚡ Working with performance optimization and modern frontend tooling
-- 🤝 Collaborating with frontend, backend, AI, UX and business teams
+I'm a **creative and proactive person** who loves learning, experimenting, and discovering what's next.
 
----
+I enjoy connecting with people, exchanging ideas, sharing knowledge, and exploring **new, unusual, and exciting technologies**.
 
-## 🌱 Currently Growing In
-
-- AI-enabled product development
-- Frontend architecture
-- Backend development
-- Cloud-based applications
-- Building reliable human-in-the-loop AI experiences
-
----
-
-## 💬 Ask Me About
-
-`React` • `TypeScript` • `Next.js` • `Frontend Architecture` • `UI Development` • `REST APIs` • `i18n` • `Accessibility`
+I'm happiest when I can combine **technology, creativity, and collaboration** to build something meaningful. ✨
 
 ---
 
 ## 🌍 Languages
 
-🇬🇧 English  
-🇵🇱 Polish  
-Belarusian / Russian
+🇬🇧 **English**  
+🇵🇱 **Polish**  
+🇧🇾 **Belarusian**  
+**Russian**
 
 ---
 
-### ✨ A little about me
+### ✨ A little philosophy
 
-I like building products where **technology solves real business problems**.
-
-For me, good software isn't just about making something work. It's about making it **clear, reliable, maintainable, and pleasant to use**.
+> Build things that are useful.  
+> Keep them simple.  
+> Stay curious.
