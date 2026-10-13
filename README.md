@@ -33,7 +33,6 @@ I'm especially interested in building AI-enabled experiences that feel **clear, 
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/></a>
-  <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
   <a href="https://redux-toolkit.js.org"><img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit"/></a>
   <a href="https://github.com/pmndrs/zustand"><img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white" alt="Zustand"/></a>
   <a href="https://tanstack.com/query"><img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=tanstack&logoColor=white" alt="React Query"/></a>
